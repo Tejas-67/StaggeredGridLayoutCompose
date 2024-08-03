@@ -47,4 +47,5 @@ object AppModule {
         interceptor.setLevel(HttpLoggingInterceptor.Level.BODY)
         return interceptor
     }
+
 }

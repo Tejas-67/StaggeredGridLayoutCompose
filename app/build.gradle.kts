@@ -81,5 +81,10 @@ dependencies {
     kapt(libs.androidx.hilt.compiler)
     implementation(libs.androidx.hilt.navigation.compose)
 
-    //room
+    //glide
+    implementation(libs.landscapist.glide)
+
+    //constraint layout
+    implementation(libs.androidx.constraintlayout.compose)
+
 }

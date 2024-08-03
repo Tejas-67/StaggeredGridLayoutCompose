@@ -1,3 +1,3 @@
 package com.tejas.staggeredgridlayoutcompose.datamodel
 
-class ImageResponse : ArrayList<Image>()
+class ImageResponse : ArrayList<ImageItem>()

@@ -1,6 +1,6 @@
 package com.tejas.staggeredgridlayoutcompose.datamodel
 
-data class Image(
+data class ImageItem(
     val author: String,
     val download_url: String,
     val height: Int,
